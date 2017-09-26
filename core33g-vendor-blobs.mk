@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/core33g/proprietary/bin/ext_kill.sh:system/bin/ext_kill.sh \
     vendor/samsung/core33g/proprietary/bin/ext_symlink.sh:system/bin/ext_symlink.sh \
     vendor/samsung/core33g/proprietary/lib/hw/gralloc.sc8830.so:system/lib/hw/gralloc.sc8830.so \
+    vendor/samsung/core33g/proprietary/lib/hw/hwcomposer.sc8830.so:system/lib/hw/hwcomposer.sc8830.so \
     vendor/samsung/core33g/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
     vendor/samsung/core33g/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/core33g/proprietary/lib/hw/camera.sc8830.so:system/lib/hw/camera.sc8830.so \
